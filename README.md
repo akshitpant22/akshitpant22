@@ -1,11 +1,8 @@
 <!-- Popping Intro Message -->
 <h2 align="center">
-  👋 Hi, my name is <span style="color:#F59E0B;">AKSHIT PANT</span><br>
+  👋 Hi, my name is <span style="color:#F59E0B;">Akshit Pant</span><br>
   <em>Welcome to my GitHub profile!</em>
 </h2>
-
----
-
 <h1 align="center">🚀 About Me</h1>
 
 <p align="center">
@@ -36,11 +33,13 @@
 ---
 
 
+
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-pant)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akhsit__pant___)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/akshit__pant___)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)
+[![Portfolio](https://img.shields.io/badge/-E--Portfolio-FF6347?style=for-the-badge&logo=firefox&logoColor=white)](https://akshitpant22.wixsite.com/akki)
 
 ---
 
