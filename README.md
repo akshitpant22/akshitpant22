@@ -15,7 +15,7 @@
 ### 👨‍🎓 Education & Interests
 - 📚 Pursuing **B.Tech in Artificial Intelligence and Data Science**  
   at **Graphic Era Hill University**, Dehradun  
-- 🌐 Currently learning **Full Stack Web Development**
+- 🌐 Currently learning **Software and Web Development**
 - 💡 Interested in **problem-solving, open-source, and smart tech**
 - 🤝 Always open to **collaboration and learning new things**
 
